@@ -14,20 +14,23 @@ body {
     margin: 100px auto;
     padding: 2em;
     color: #ffffff;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 33%);
 }
 h1{
     font-weight: 800;
+    
 
 }
 h4{
     letter-spacing: 1px;
-    min-height: 20px;
-    
+    height: 20px;
+
 }
 button{
     padding: 1em .5em;
     margin: 5px auto;
-    margin-top: 17px;
+    margin-top: 12px;
+    margin-bottom: 1px;
     width: 130px;
     background: #fff;
     outline: none;
